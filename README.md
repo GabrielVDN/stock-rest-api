@@ -60,3 +60,5 @@ Run the server:
 python manage.py runserver
 ```
 You can now acces the api on this address: http://127.0.0.1:8000/products/
+
+Now that the server is running you can go back to stock-tracker and run the 'main.py' file.
