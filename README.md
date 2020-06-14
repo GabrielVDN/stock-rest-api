@@ -14,6 +14,12 @@ First of start with cloning the git repository:
 ```
 git clone https://github.com/GabrielVDN/stock_rest_api.git
 ```
+
+Change your working directory:
+
+```
+cd stock_rest_api
+```
 ### Installing
 
 Next follow these steps, start with creating a virtual environment:
@@ -26,12 +32,6 @@ Activate it:
 
 ```
 venv\scripts\activate.bat
-```
-
-Change your working directory:
-
-```
-cd stock_rest_api
 ```
 
 Install the requirements:
