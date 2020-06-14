@@ -34,6 +34,11 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
+Make the necessary migrations:
+```
+python manage.py migrate
+```
+
 Run the server:
 
 ```
