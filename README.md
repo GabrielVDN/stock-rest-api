@@ -34,12 +34,20 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
+Chsnge your working directory:
+
+```
+cd stock_rest_api
+```
+
 Make the necessary migrations:
+
 ```
 python manage.py migrate
 ```
 
 Create the necessary user:
+
 ```
 python manage.py createsuperuser
 ```
@@ -50,6 +58,5 @@ Run the server:
 
 ```
 python manage.py runserver
-
 ```
 You can now acces the api on this address: http://127.0.0.1:8000/products/
