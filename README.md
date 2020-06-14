@@ -39,6 +39,13 @@ Make the necessary migrations:
 python manage.py migrate
 ```
 
+Create the necessary user:
+```
+python manage.py createsuperuser
+```
+Use 'gabriel' as username and '1' as password.
+If you want to use your own credentials you will have to adjust the authorizations of the requests in stock-tracker.
+
 Run the server:
 
 ```
