@@ -22,7 +22,7 @@ Next follow these steps, start with creating a virtual environment:
 python -m venv venv
 ```
 
-activate it: 
+Activate it: 
 
 ```
 venv\scripts\activate.bat
@@ -38,3 +38,6 @@ Run the server:
 
 ```
 python manage.py runserver
+
+```
+You can now acces the api on this address: http://127.0.0.1:8000/products/
