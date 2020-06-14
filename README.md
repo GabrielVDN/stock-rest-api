@@ -28,16 +28,16 @@ Activate it:
 venv\scripts\activate.bat
 ```
 
+Change your working directory:
+
+```
+cd stock_rest_api
+```
+
 Install the requirements:
 
 ```
 pip install -r requirements.txt
-```
-
-Chsnge your working directory:
-
-```
-cd stock_rest_api
 ```
 
 Make the necessary migrations:
