@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn stock_rest_api.wsgi
