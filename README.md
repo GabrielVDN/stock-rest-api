@@ -1,4 +1,4 @@
-# stockrest-api
+# stock-rest-api
 
 This project is a the api for the stock tracker.
 (https://github.com/GabrielVDN/stock-tracker)
